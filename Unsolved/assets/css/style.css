@@ -25,12 +25,15 @@ h1 {
 
 /* TODO: Change the heading size to be slightly smaller than h1, give it a margin only on the top and bottom, and assign font family to serif */
 h2 {
-  margin: 2% 0% 2% 0%;
-  font-size 
+  margin: 2% 0% ;
+  font-size: 180%;
+  font-family: serif; 
 }
 
 /* TODO: Change header size to be slightly smaller than h2 and assign font family to serif */
 h3 {
+  font-size: 150%;
+  font-family: serif;
 }
 
 nav ul {
